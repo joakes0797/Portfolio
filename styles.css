@@ -20,7 +20,7 @@
     border-color: #7b8085 !important;
 }
 
-.btn{
+.btn-secondary{
     background-color: #b2c8bc;
     color: var(--black);
     border: 1px solid var(--blue);
