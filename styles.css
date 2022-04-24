@@ -1,26 +1,23 @@
 .background{
-    background-image: linear-gradient(to bottom right, #824A7B, #C397BE);
+    background-color: #d3bec0;
 }
 
-#navbarSupportedContent{
-    /* these need to be on the right */
-}
-.hero{
-   background-image: linear-gradient(to bottom right, #2FC6A8, #9CE8D9);
+.card{
+    background-color: transparent;
+    border: 1px solid rgba(0, 0, 0, .35);
 }
 
-#feature{
-    background-image: linear-gradient(to bottom right, #DD6E42, #ebc584);
+.border-jill {
+    border-color: #7b8085 !important;
 }
 
-.headline,
-.lead {
-    text-align: left
-}
+#bed3c7
 
-#keyboard,
-#book,
-#controller{
-    align: left
-/* this doesn't work yet */
-}
+#bed3d2
+#d3beca
+#c0d3be
+
+
+
+#d3bec0
+#d2bed3
