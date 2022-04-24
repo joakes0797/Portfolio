@@ -1,23 +1,37 @@
+:root{
+    --pink: #d3bec0;
+    --green: #c0d3be;
+    --blue: #bed3d2;
+    --triadic: #becad3;
+    --grey: #7b8085;
+    --black: #212529;
+}
+
 .background{
-    background-color: #d3bec0;
+    background-color: var(--pink);
 }
 
 .card{
     background-color: transparent;
-    border: 1px solid rgba(0, 0, 0, .35);
+    border: 1px solid #7b8085;
 }
 
 .border-jill {
     border-color: #7b8085 !important;
 }
 
-#bed3c7
+.btn{
+    background-color: #b2c8bc;
+    color: var(--black);
+    border: 1px solid var(--blue);
+    padding: 5px;
+}
 
-#bed3d2
-#d3beca
-#c0d3be
+/* 
+#bed3c7 complementary
 
+#bed3d2 blue
+#d3beca pink
+#c0d3be green
 
-
-#d3bec0
-#d2bed3
+#becad3 triadic */
