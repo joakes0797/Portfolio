@@ -9,6 +9,8 @@
 
 .background{
     background-color: var(--pink);
+    /* background-image: url('images/pinkBackground.jpg');
+    height: 100vh; */
 }
 
 .card{
